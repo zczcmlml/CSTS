@@ -1,3 +1,6 @@
+# Dataset
+## Obama+Barack+news,20140101,20140320
+
 // Build by Xiaoke Huang
 
 There are two data set. One is used for storing all the detail information of each article. Such as keywords. Title, headline. And other one is the clusters array.
